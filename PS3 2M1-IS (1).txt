@@ -1,0 +1,27 @@
+I.- Auxiliándose de la BD SIC elaborar las siguientes consultas:
+Recuerde que debe diseñar e implementar
+Usted decide si utiliza algebra relacional o calculo de predicado
+si usa algebra relacional los elementos por item a entregar son:
+
+a.- Tipo de Operacion b.- Nombre de la Operacion c.- Diseño en algebra d.-Implementacion.
+
+si usa calculo de predicado lo entregado por item sera:
+
+a.- tipo de calculo de predicado b.-Diseño c.-Implemementacion.
+
+1.- NombreCJ, URLCJ, DirC y TelC (2 puntos)
+
+2.- Clientes del Municipio de Managua con la información de su Municipio (3 puntos)
+
+3.- Productos con la correspondiente información de su proveedor( 3 puntos)
+
+4.- PNCN, PACN, DirC y TelC (2 puntos)
+
+
+
+
+
+
+
+
+II.- Crear una tabla Temporal para el Vendedor con manejo de version del sistema( 5 puntos)
